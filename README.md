@@ -2,3 +2,5 @@
 
 1. In the first repo, add a workflow for a Python application.
 2. Create a workflow using the starter workflow for Python applications.
+
+Application with workflow using actual workflow:  https://github.com/FrauleinGela/github-ci-cd-workflows
